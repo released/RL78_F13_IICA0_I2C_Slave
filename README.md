@@ -34,5 +34,5 @@ when master send read reg : 0x00 , will return data to I2C master , check flag :
 
 4. below is log message when receive I2C data
 
-![image](https://github.com/released/RL78_G16_IICA0_I2C_Master/blob/main/log.jpg)
+![image](https://github.com/released/RL78_F13_IICA0_I2C_Slave/blob/main/log.jpg)
 
