@@ -7,7 +7,7 @@ udpate @ 2024/09/03
 
 - UART : P15/TXD0, P16/RXD0
 
-- IICA0 MASTER : P62/SCL0 ,  P63/SDA0
+- IICA0 SLAVE : P62/SCL0 ,  P63/SDA0
 
 	- use RL78_G16_IICA0_I2C_Master , for I2C master
 
